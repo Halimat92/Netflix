@@ -1,0 +1,4 @@
+Netflix! What started in 1997 as a DVD rental service has since exploded into one of the largest entertainment and media companies.  Given the large number of movies and series available on the platform, it is a perfect opportunity to flex our exploratory data analysis skills and dive into the entertainment industry. 
+
+Problem Statement:
+Investigate the trend of movie durations on Netflix to determine if there is evidence to support the belief that the average duration of movies has been declining over time. Utilizing initial research findings, conduct an in-depth analysis of Netflix data to discern any patterns or trends in movie lengths. Furthermore, identify potential contributing factors to any observed changes in movie durations, providing insights into the dynamics shaping movie production and consumption on the platform. 
